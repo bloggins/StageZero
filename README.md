@@ -5,7 +5,7 @@
  
 Added AES encryption & Evasive features:
 
-StageZero using dinvoke to inject donut'ed covenant grunt 
+StageZero using dinvoke to inject donut'ed (or not) C2 shellcode
  
  ```bash
  msfvenom -p windows/x64/exec cmd=calc.exe -f raw -o calc.bin

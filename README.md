@@ -3,7 +3,7 @@
  https://gist.github.com/ChoiSG/e84e9ae9aa325b477e49264ffef56097
  
  
-Added AES encryption & Evasive features:
+**Added AES encryption & Evasive features:**
 
 StageZero using dinvoke to inject donut'ed (or not) C2 shellcode
  

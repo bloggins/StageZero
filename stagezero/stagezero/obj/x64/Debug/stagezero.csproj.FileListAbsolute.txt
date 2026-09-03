@@ -1,9 +1,0 @@
-C:\Users\dev\source\stagezero\stagezero\bin\x64\Debug\stagezero.exe.config
-C:\Users\dev\source\stagezero\stagezero\bin\x64\Debug\stagezero.exe
-C:\Users\dev\source\stagezero\stagezero\bin\x64\Debug\stagezero.pdb
-C:\Users\dev\source\stagezero\stagezero\bin\x64\Debug\DInvoke.dll
-C:\Users\dev\source\stagezero\stagezero\obj\x64\Debug\stagezero.csproj.AssemblyReference.cache
-C:\Users\dev\source\stagezero\stagezero\obj\x64\Debug\stagezero.csproj.CoreCompileInputs.cache
-C:\Users\dev\source\stagezero\stagezero\obj\x64\Debug\stagezero.csproj.Up2Date
-C:\Users\dev\source\stagezero\stagezero\obj\x64\Debug\stagezero.exe
-C:\Users\dev\source\stagezero\stagezero\obj\x64\Debug\stagezero.pdb

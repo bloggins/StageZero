@@ -3,7 +3,9 @@
  https://gist.github.com/ChoiSG/e84e9ae9aa325b477e49264ffef56097
  
  
- stage zero using dinvoke to inject donut'ed covenant grunt 
+Added AES encryption & Evasive features:
+
+StageZero using dinvoke to inject donut'ed covenant grunt 
  
  ```bash
  msfvenom -p windows/x64/exec cmd=calc.exe -f raw -o calc.bin

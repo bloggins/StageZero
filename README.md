@@ -22,3 +22,5 @@ StageZero using dinvoke to inject donut'ed (or not) C2 shellcode
  ```
  
  Edit lines 158 -160 in Program.cs
+
+Build x64 Release and run!
